@@ -1,4 +1,4 @@
-👽 IT501A – AlienBot 
+👽 
 AlienBot is a web-based chatbot designed for students, baristas, and coffee lovers.
 It provides interactive recipe assistance for drinks such as frappes, milkshakes, smoothies, and lattes — powered by OpenAI’s API via a secure proxy endpoint.
 
